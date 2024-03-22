@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-photo/composition-with-html-system-websites_23-2150866281.jpg?w=2000&t=st=1711111363~exp=1711111963~hmac=a2c5cf08de7bcec2db2af1a336f031282486eddd2eb569ae6dd723d9720b6322)](https://gauravsharma-portfolio.netlify.app/)
+[![MasterHead](https://img.freepik.com/premium-photo/composition-data-processing-businessman-working-office-with-pink-background-global-business-technology-concept-digitally-generated-image_1134-45202.jpg?w=2000)](https://gauravsharma-portfolio.netlify.app/)
 <h1 align="center">Hi 👋, I'm Gaurav Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
